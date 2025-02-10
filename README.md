@@ -11,7 +11,7 @@
   </details>
   <details>
     <summary>
-      Signup here visit https://sites.google.com/wcpss.net/mpms-fbla/how-to-join
+      Signup [here] ( https://sites.google.com/wcpss.net/mpms-fbla/how-to-join)
     </summary>
   </details>
   
