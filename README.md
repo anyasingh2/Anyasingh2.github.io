@@ -12,7 +12,7 @@
   <details>
     <summary>
       Signup 
-      [here](https://sites.google.com/wcpss.net/mpms-fbla/how-to-join)
+      * [here](/sites.google.com/wcpss.net/mpms-fbla/how-to-join)
     </summary>
   </details>
   
