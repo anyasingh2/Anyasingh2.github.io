@@ -14,7 +14,7 @@
       Signup here
     </summary>
   </details>
-  Signup 
+  
 * Math Counts
 * National Junior Honor Society
 * Odyssey of the Mind
