@@ -1,7 +1,7 @@
 # Clubs and Organizations
 <pre> <code> 
 All MPMS clubs available to our students will be listed on this page.
-  ** membership and participation in all student clubs and organiaztions is open to all students without regard to age, race, color, relion, gender, gender identity,sex, sexual orientation, national origion, disability, or other protected classifications.
+  ** membership and participation in all student clubs and organiaztions is open to all students without regard to age, race, color, relion, gender, gender identity,sex, sexual orientation, national origion, disability, or other protected classifications. **
 </code></pre>
 * FBLA 🧑‍⚕️ <br>
   Future Business Leaders of Americas,Inc.is the largest business Career and Technical Student Organization in the world. Each year, FBLA inspires and prepares student to become community-minded business leaders in a global society through relevant career preparation and leadership e periences.
