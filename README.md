@@ -1,3 +1,1 @@
-
-<html>
- # <title>Clubs and Organizations</title>
+# Clubs and Organizations. 
