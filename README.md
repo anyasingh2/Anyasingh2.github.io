@@ -12,7 +12,7 @@
     <summary>
       Signup
     </summary>
-    * Please join us by clicking on this link https://sites.google.com/wcpss.net/mpms-fbla/how-to-join)
+    * Please join us by clicking on this link <a href="https://sites.google.com/wcpss.net/mpms-fbla/how-to-join" title="Here"></a>
   </details>
   </code></pre>
 * Math Counts
