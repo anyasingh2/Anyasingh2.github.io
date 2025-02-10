@@ -1,7 +1,7 @@
 # Clubs and Organizations
 
-* FBLA
-  ## Future Business Leaders of Americas,Inc.is the largest business Career and Technical Student Organization in the world. Each year, FBLA inspires and prepares student to become community-minded business leaders in a global society through relevant career preparation and leadership e periences.
+* FBLA <br>
+  Future Business Leaders of Americas,Inc.is the largest business Career and Technical Student Organization in the world. Each year, FBLA inspires and prepares student to become community-minded business leaders in a global society through relevant career preparation and leadership e periences.
   
 * Math Counts
 * National Junior Honor Society
