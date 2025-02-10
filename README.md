@@ -11,7 +11,7 @@
     <summary>
       Signup
     </summary>
-    come join our club and become a Leader ,<a href="https://sites.google.com/wcpss.net/mpms-fbla/how-to-join">here</a>
+    Come join our club and become a Leader by clicking <a href="https://sites.google.com/wcpss.net/mpms-fbla/how-to-join">here</a>
   </details>
   
 * Math Counts
