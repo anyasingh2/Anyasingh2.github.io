@@ -10,9 +10,9 @@
   </details>
   <details>
     <summary>
-      Signup 
-      * Pleasejoin us by clicking on this link https://sites.google.com/wcpss.net/mpms-fbla/how-to-join)
+      Signup
     </summary>
+    * Please join us by clicking on this link https://sites.google.com/wcpss.net/mpms-fbla/how-to-join)
   </details>
   
 * Math Counts
