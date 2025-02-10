@@ -7,7 +7,6 @@
     * FBLA meeting Club will meet Regularly every Wednesday at 4pm <br>
     * Regional Competitive Event Conference
         * March 20, 2025
-    
   </details>
   <details>
     <summary>
