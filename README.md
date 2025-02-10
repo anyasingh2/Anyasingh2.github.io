@@ -9,7 +9,12 @@
         * March 20, 2025
     
   </details>
-  - Signup 
+  <details>
+    <summary>
+      Signup here
+    </summary>
+  </details>
+  Signup 
 * Math Counts
 * National Junior Honor Society
 * Odyssey of the Mind
