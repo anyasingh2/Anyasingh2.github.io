@@ -1,5 +1,5 @@
 # Clubs and Organizations
-<p></p>
+<p>
 All MPMS clubs available to our students will be listed on this page.
   ** membership and participation in all student clubs and organiaztions is open to all students without regard to age, race, color, relion, gender, gender identity,sex, sexual orientation, national origion, disability, or other protected classifications. **
 </p>
